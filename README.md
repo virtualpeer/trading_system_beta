@@ -22,6 +22,7 @@ This trading system is based on machine learning and intends to proceed to the m
     - B2C 서비스를 제공 수준은 아니나 ‘코드’ 단에서 관리하기 보단 인터페이스를 나누는 것이 좋을 것이라 판단
     - 사고 실험을 통해 가치를 창출할 수 있는 Trading System의 Architecture를 그리는 중
 
+---
 
 # 부록
 - Beta Version 0.1 실행을 위해선 Engine.Backtester_GS.py를 run 하면 됨.
