@@ -23,7 +23,10 @@ This trading system is based on machine learning and intends to proceed to the m
     - 사고 실험을 통해 가치를 창출할 수 있는 Trading System의 Architecture를 그리는 중
 
 ---
+# Trading Research
+  WIKI : https://github.com/jaeaehkim/trading_system_beta/wiki
 
+---
 # 부록
 - Beta Version 0.1 실행을 위해선 Engine.Backtester_GS.py를 run 하면 됨.
 - 이론적 기반은 Advances in Financial Machine Learning 1st Edition by Marcos Lopez de Prado 에 기반하고 있으며 해당 책을 베이스로 하여 많은 부분을 변형 및 추가함.
