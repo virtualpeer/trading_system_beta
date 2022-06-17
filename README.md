@@ -21,7 +21,7 @@ This trading system is based on machine learning and intends to proceed to the m
 - Front-end / Back-end / Engine / DB 로 구별하여 작업 진행 예정
     - B2C 서비스를 제공 수준은 아니나 ‘코드’ 단에서 관리하기 보단 인터페이스를 나누는 것이 좋을 것이라 판단
     - 사고 실험을 통해 가치를 창출할 수 있는 Trading System의 Architecture를 그리는 중
-
+- **Trading/Simulator Engine의 핵심** : **거래비용을 감안한 회전율 X 확률우위**
 ---
 # Trading Research
   WIKI : https://github.com/jaeaehkim/trading_system_beta/wiki
